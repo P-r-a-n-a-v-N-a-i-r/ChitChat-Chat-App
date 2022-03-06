@@ -4,7 +4,7 @@
 This is a Realtime chat application using socket.io and vanilla javascript. The main aim of this project was to learn how realtime chat work using socket.io.
 
 ## Deployment
-Deployed Website- https://glacial-ocean-03844.herokuapp.com/
+Deployed Website- https://chitchatwebapp.herokuapp.com/
 
 ## Deployed using
 * Heroku
